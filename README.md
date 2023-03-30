@@ -1,2 +1,6 @@
-# ESFA
-Thermodynamic Simulation
+# Thermodynamic Simulation
+- Turbine
+- Compressor
+- Pump
+- Valve
+- Separator
