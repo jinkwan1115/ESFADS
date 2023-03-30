@@ -3,4 +3,5 @@
 - Compressor
 - Pump
 - Valve
+- Heat Exchanger
 - Separator
